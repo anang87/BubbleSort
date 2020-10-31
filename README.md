@@ -1,5 +1,5 @@
 # Bubble-Sort
-This is the Bubble Sort algorithm used to sort the elements in an array (or list). Created with Java.
+This is the Bubble Sort algorithm used to sort the elements in an array (or list). I have created this algorithm in both Java and Python.
 
 It simply iterates through the array, comparing adjacent elements and it swaps them if they are in the incorrect order. This is repeated until the array is fully sorted.
 
